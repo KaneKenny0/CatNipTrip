@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - biscuit
+  - CatNip
+  - boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Hitbox
+  - postProccess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: title
+    uniqueID: 4167801937
+    locked: 0
+  - name: Background
+    uniqueID: 2450503905
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 605096071
+    locked: 0
+  - name: UI
+    uniqueID: 2031011581
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 907569417
+    locked: 0
+  - name: Player
+    uniqueID: 1338996987
+    locked: 0
